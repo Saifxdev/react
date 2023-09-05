@@ -1,0 +1,149 @@
+body{
+  background-color: black;
+}
+.App {
+  text-align: center; 
+  color: white;
+}
+
+.css1{
+  background-color: green;
+  color: black;
+  margin: 30px;
+  padding: 10px;
+}
+
+.d1{
+  background-color: rgb(51, 50, 50);
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 50px;
+  border-color: white;
+  border-width:4px;
+  width: 95%;
+  height: max-content;
+  padding: 10px;
+  text-align: left;
+  word-spacing: 100px;
+  position: static;
+  display: flex;
+  margin-left: 20px;
+  margin-top: 10px;
+  border-color: white;
+  border-style: groove;
+}
+
+.d2{
+  background-color: rgb(75, 74, 74); 
+  display: flex;
+  position: sticky;
+  width: 40%;
+  margin-top: 30px;
+  color: white;
+  padding: 10px; 
+  border-radius: 30px;
+  border-color: white;
+  border-width: 3px;
+  border-style: groove;  
+  align-self: center;
+  margin-left: 670px;
+}
+b{
+  padding: 10px;
+  margin-left: 20px;
+}
+
+
+input{
+  padding-top: 7px;
+  border-radius: 24px;
+  border-color: rgb(217, 211, 211);
+  margin-left: 10px;
+
+}
+label{
+  padding-bottom: 9px;
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  text-align: start;
+
+}
+
+button{
+  background-color: rgb(90, 162, 108);
+  color: white;
+  font-size: 13px;
+  border-radius: 10px;
+  border-color: white;
+  margin-top: 10px;
+  padding: 10px;
+  margin-left: 20px;
+  font-weight: bold;
+}
+
+.d3{
+  position: sticky;
+  display: flex;
+  margin-top: 20px;
+
+}
+.d4{
+  height: 320px;
+  width: 330px;
+  margin-top: 20px;
+  margin-left: 30px;
+  margin-right: 20px;
+  border-color:rgb(249, 205, 205);
+  border-radius: 30px;
+  border-width: 10px;
+  border-style: groove;
+  background-color: white;
+  padding: 10px;
+}
+ 
+img{ 
+  border-radius: 40px;
+  border-color: black;
+  border-width: 6px;
+  height: 310px;
+  width: 320px;
+}
+
+section{
+  border-radius: 20px;
+  border-style: double;
+  border-color: red;
+  padding: 10px;
+  margin: 10px;
+}
+ 
+.car123{
+  border-radius: 30px; 
+   display: flex;
+   margin-left: 10px;
+}
+.add{
+  border-style: double;
+  border-radius: 10px;
+  border-color: red;
+  display: flex;
+  position: sticky;
+  margin: 10px;
+  padding: 5px;
+  width: max-content; 
+}
+.d21{
+  border-radius: 10px;
+  
+  display: flex;
+  padding: 4px;
+
+}
+
+ .d12{
+  border-style: double;
+  border-color: rgb(235, 73, 73);
+  margin:10px;
+ }
